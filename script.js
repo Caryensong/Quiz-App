@@ -59,6 +59,7 @@ function showQuestion() {
     updateToQuestion();
   }
 }
+//TEST
 
 function gameIsOver() {
   //diese funktion spuckt true oder false raus
